@@ -79,7 +79,7 @@ app.use((error, req, res, next) => {
 
 mongoose
   .connect(
-    'mongodb+srv://modimohit291997:maya1234@cluster0.ovarcox.mongodb.net/test',{
+    '',{
     useNewUrlParser: true,
     useUnifiedTopology: true,
 }
