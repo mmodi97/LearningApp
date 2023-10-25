@@ -1,0 +1,28 @@
+{
+    "gender": [
+        {
+            "code":"01",
+            "description":"Male"
+        },
+        {
+
+             "code":"02",
+             "description":"Female"
+        }
+    ],
+    "usertype":[
+        {
+            "code":"U1",
+            "description":"Student"
+        },
+        {
+            "code":"U2",
+            "description":"Faculty"
+        },
+        {
+            "code":"U3",
+            "description":"Business"
+        }
+    ]
+
+}
